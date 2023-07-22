@@ -1,0 +1,6 @@
+print('-------------------------------------------------')
+print('Adivinhe o Numero')
+print('-------------------------------------------------')
+print('Criado por Johnny C Pontes')
+print('----------------------------')
+palpite = input('Digite um numero entre 1 a 50: ')
